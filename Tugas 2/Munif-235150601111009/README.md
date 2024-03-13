@@ -20,4 +20,4 @@ Fitur Aplikasi Program :
 
 ## 🔗 Link Penjelasan Tugas
 
-https://www.youtube.com/watch?v=dQw4w9WgXcQ
+https://youtu.be/TtLNs68d6RU
