@@ -6,7 +6,10 @@ NIM  : 235150601111009
 
 ## 📤 Submission
 
-Tema yang dipilih : 
+1. Diagram : https://github.com/munifff/Munif-PBO-PTI-A/tree/46aa11892c923f39115125f3281cddad754acaab/Tugas3/diagram
+2. src :
+
+Tema yang dipilih : Kendaraan
 Class Diagram yang dibuat : 
 1. Class Diagram Bus
 2. Class Diagram KeretaApi
