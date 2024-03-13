@@ -7,7 +7,7 @@ NIM  : 235150601111009
 ## 📤 Submission
 
 1. Diagram : https://github.com/munifff/Munif-PBO-PTI-A/tree/46aa11892c923f39115125f3281cddad754acaab/Tugas3/diagram
-2. src :
+2. src : Tugas3/src
 
 Tema yang dipilih : Kendaraan
 Class Diagram yang dibuat : 
