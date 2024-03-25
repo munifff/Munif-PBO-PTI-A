@@ -58,6 +58,15 @@ public class Bus {
     public void balapan(String lokasi) {
         System.out.println("Bus berpartisipasi dalam balapan di lokasi: " + lokasi);
     }
+    
+    public void nanjak() {
+        System.out.println("Bus sedang menanjak.");
+    }
+
+    public void ngebut() {
+        System.out.println("Bus sedang melaju dengan kecepatan tinggi.");
+    }
+
 
     public Bus getBusInstance() {
         return this;
@@ -92,6 +101,8 @@ public class Bus {
         bus.mogok();
         bus.kecelakaan();
         bus.balapan("Sirkuit Sentul");
+        bus.nanjak();
+        bus.ngebut();
 
         Bus bus2 = new Bus("Scania", "Merah");
         Bus bus3 = new Bus("Volvo", "Biru", "Solar");
